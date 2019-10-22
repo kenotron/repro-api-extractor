@@ -1,0 +1,16 @@
+{
+  "name": "test-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "api-extractor run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.5.2",
+    "typescript": "^3.6.4"
+  }
+}
